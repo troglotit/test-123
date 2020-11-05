@@ -1,0 +1,151 @@
+[17:1:31.893] Global cache location '/Users/argunovaleksandr/Library/Caches/typescript/4.0', safe file path '/users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json
+[17:1:31.894] Processing cache location '/Users/argunovaleksandr/Library/Caches/typescript/4.0'
+[17:1:31.894] Trying to find '/Users/argunovaleksandr/Library/Caches/typescript/4.0/package.json'...
+[17:1:31.896] Loaded content of '/Users/argunovaleksandr/Library/Caches/typescript/4.0/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.514"},"devDependencies":{"@types/async":"^3.2.3","@types/atob":"^2.1.2","@types/chartist":"^0.11.0","@types/classnames":"^2.2.10","@types/crypto-js":"^4.0.1","@types/fibers":"^3.1.0","@types/file-loader":"^4.2.0","@types/hat":"0.0.1","@types/history":"^4.7.8","@types/lodash":"^4.14.162","@types/lodash.debounce":"^4.0.6","@types/lodash.isequal":"^4.5.5","@types/mapbox-gl":"^1.12.5","@types/mapbox__mapbox-sdk":"^0.6.5","@types/nanoid":"^2.1.0","@types/object-hash":"^1.3.4","@types/react-lazyload":"^3.0.0","@types/react-redux":"^7.1.9","@types/react-router":"^5.1.8","@types/react-router-dom":"^5.1.6","@types/sass":"^1.16.0","@types/sass-loader":"^8.0.0","@types/smoothscroll-polyfill":"^0.3.1","@types/sprintf":"^0.1.0","@types/tryer":"^1.0.1","@types/url-join":"^4.0.0","@types/xtend":"^4.0.3"}}
+[17:1:31.896] Loaded content of '/Users/argunovaleksandr/Library/Caches/typescript/4.0/package-lock.json'
+[17:1:31.909] Adding entry into typings cache: 'async' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/async/index.d.ts'
+[17:1:31.912] Adding entry into typings cache: 'atob' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/atob/index.d.ts'
+[17:1:31.914] Adding entry into typings cache: 'chartist' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/chartist/index.d.ts'
+[17:1:31.918] Adding entry into typings cache: 'classnames' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/classnames/index.d.ts'
+[17:1:31.922] Adding entry into typings cache: 'crypto-js' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/crypto-js/index.d.ts'
+[17:1:31.925] Adding entry into typings cache: 'fibers' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/fibers/index.d.ts'
+[17:1:31.928] Adding entry into typings cache: 'file-loader' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/file-loader/index.d.ts'
+[17:1:31.932] Adding entry into typings cache: 'hat' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/hat/index.d.ts'
+[17:1:31.936] Adding entry into typings cache: 'history' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/history/index.d.ts'
+[17:1:31.941] Adding entry into typings cache: 'lodash' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/lodash/index.d.ts'
+[17:1:31.943] Adding entry into typings cache: 'lodash.debounce' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/lodash.debounce/index.d.ts'
+[17:1:31.945] Adding entry into typings cache: 'lodash.isequal' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/lodash.isequal/index.d.ts'
+[17:1:31.948] Adding entry into typings cache: 'mapbox-gl' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/mapbox-gl/index.d.ts'
+[17:1:31.951] Adding entry into typings cache: 'mapbox__mapbox-sdk' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/mapbox__mapbox-sdk/index.d.ts'
+[17:1:31.953] Adding entry into typings cache: 'nanoid' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/nanoid/index.d.ts'
+[17:1:31.955] Adding entry into typings cache: 'object-hash' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/object-hash/index.d.ts'
+[17:1:31.957] Adding entry into typings cache: 'react-lazyload' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/react-lazyload/index.d.ts'
+[17:1:31.960] Adding entry into typings cache: 'react-redux' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/react-redux/index.d.ts'
+[17:1:31.963] Adding entry into typings cache: 'react-router' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/react-router/index.d.ts'
+[17:1:31.965] Adding entry into typings cache: 'react-router-dom' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/react-router-dom/index.d.ts'
+[17:1:31.967] Adding entry into typings cache: 'sass' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/sass/index.d.ts'
+[17:1:31.969] Adding entry into typings cache: 'sass-loader' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/sass-loader/index.d.ts'
+[17:1:31.970] Adding entry into typings cache: 'smoothscroll-polyfill' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/smoothscroll-polyfill/index.d.ts'
+[17:1:31.972] Adding entry into typings cache: 'sprintf' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/sprintf/index.d.ts'
+[17:1:31.974] Adding entry into typings cache: 'tryer' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/tryer/index.d.ts'
+[17:1:31.977] Adding entry into typings cache: 'url-join' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/url-join/index.d.ts'
+[17:1:31.979] Adding entry into typings cache: 'xtend' => '/Users/argunovaleksandr/Library/Caches/typescript/4.0/node_modules/@types/xtend/index.d.ts'
+[17:1:31.979] Finished processing cache location '/Users/argunovaleksandr/Library/Caches/typescript/4.0'
+[17:1:31.979] Process id: 60600
+[17:1:31.979] NPM location: /Users/argunovaleksandr/.config/nvm/14.13.0/bin/npm (explicit '--npmLocation' not  provided)
+[17:1:31.979] validateDefaultNpmLocation: false
+[17:1:31.979] Npm config file: /Users/argunovaleksandr/Library/Caches/typescript/4.0/package.json
+[17:1:31.979] Updating types-registry npm package...
+[17:1:31.980] Exec: /Users/argunovaleksandr/.config/nvm/14.13.0/bin/npm install --ignore-scripts types-registry@latest
+[17:1:33.367]     Succeeded. stdout:
+    + types-registry@0.1.514
+    updated 1 package and audited 49 packages in 0.626s
+found 0 vulnerabilities
+
+
+[17:1:33.367] Updated types-registry npm package
+[17:1:35.449] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:1:35.465] Loaded safelist from types map file '/users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json'
+[17:1:35.465] Explicitly included types: []
+[17:1:35.466] Inferred typings from unresolved imports: []
+[17:1:35.466] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:1:35.466] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:1:35.467] DirectoryWatcher:: Added:: WatchInfo: /Users/argunovaleksandr/scratch/test-123/src/bower_components
+[17:1:35.468] DirectoryWatcher:: Added:: WatchInfo: /Users/argunovaleksandr/scratch/test-123/src/node_modules
+[17:1:35.468] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:1:35.469] Response has been sent.
+[17:1:35.469] No new typings were requested as a result of typings discovery
+[17:4:31.293] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/reportWebVitals.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:4:31.295] Explicitly included types: []
+[17:4:31.295] Inferred typings from unresolved imports: []
+[17:4:31.295] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:4:31.295] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:4:31.296] DirectoryWatcher:: Added:: WatchInfo: /Users/argunovaleksandr/scratch/test-123/src/bower_components
+[17:4:31.296] DirectoryWatcher:: Added:: WatchInfo: /Users/argunovaleksandr/scratch/test-123/src/node_modules
+[17:4:31.296] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:4:31.296] Response has been sent.
+[17:4:31.296] No new typings were requested as a result of typings discovery
+[17:6:2.953] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:2.953] Explicitly included types: []
+[17:6:2.954] Inferred typings from unresolved imports: []
+[17:6:2.954] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:2.954] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:2.954] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:6:2.954] Response has been sent.
+[17:6:2.955] No new typings were requested as a result of typings discovery
+[17:6:3.437] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["react="],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:3.437] Explicitly included types: []
+[17:6:3.438] Inferred typings from unresolved imports: ["react="]
+[17:6:3.438] Result: {"cachedTypingPaths":[],"newTypingNames":["react="],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:3.438] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["react="],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:3.438] Installing typings ["react="]
+[17:6:3.439] 'react=':: Package name 'react=' contains non URI safe characters
+[17:6:3.439] All typings are known to be missing or invalid - no need to install more typings
+[17:6:3.439] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["react="],"kind":"action::set"}
+[17:6:3.439] Response has been sent.
+[17:6:3.723] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["react=="],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:3.724] Explicitly included types: []
+[17:6:3.724] Inferred typings from unresolved imports: ["react=="]
+[17:6:3.724] Result: {"cachedTypingPaths":[],"newTypingNames":["react=="],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:3.724] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["react=="],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:3.724] Installing typings ["react=="]
+[17:6:3.724] 'react==':: Package name 'react==' contains non URI safe characters
+[17:6:3.725] All typings are known to be missing or invalid - no need to install more typings
+[17:6:3.725] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["react=="],"kind":"action::set"}
+[17:6:3.725] Response has been sent.
+[17:6:4.576] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:4.576] Explicitly included types: []
+[17:6:4.577] Inferred typings from unresolved imports: []
+[17:6:4.577] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:4.577] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:4.577] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:6:4.577] Response has been sent.
+[17:6:4.577] No new typings were requested as a result of typings discovery
+[17:6:4.976] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["react-"],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:4.976] Explicitly included types: []
+[17:6:4.976] Inferred typings from unresolved imports: ["react-"]
+[17:6:4.977] Result: {"cachedTypingPaths":[],"newTypingNames":["react-"],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:4.977] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["react-"],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:4.977] Installing typings ["react-"]
+[17:6:4.977] 'react-':: Entry for package 'react-' does not exist in local types registry - skipping...
+[17:6:4.977] All typings are known to be missing or invalid - no need to install more typings
+[17:6:4.977] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["react-"],"kind":"action::set"}
+[17:6:4.978] Response has been sent.
+[17:6:5.371] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["react-route"],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:5.372] Explicitly included types: []
+[17:6:5.372] Inferred typings from unresolved imports: ["react-route"]
+[17:6:5.372] Result: {"cachedTypingPaths":[],"newTypingNames":["react-route"],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:5.372] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["react-route"],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:5.372] Installing typings ["react-route"]
+[17:6:5.373] 'react-route':: Entry for package 'react-route' does not exist in local types registry - skipping...
+[17:6:5.373] All typings are known to be missing or invalid - no need to install more typings
+[17:6:5.373] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["react-route"],"kind":"action::set"}
+[17:6:5.373] Response has been sent.
+[17:6:5.772] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["react-router-d"],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:5.772] Explicitly included types: []
+[17:6:5.773] Inferred typings from unresolved imports: ["react-router-d"]
+[17:6:5.773] Result: {"cachedTypingPaths":[],"newTypingNames":["react-router-d"],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:5.773] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["react-router-d"],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:5.773] Installing typings ["react-router-d"]
+[17:6:5.773] 'react-router-d':: Entry for package 'react-router-d' does not exist in local types registry - skipping...
+[17:6:5.774] All typings are known to be missing or invalid - no need to install more typings
+[17:6:5.774] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["react-router-d"],"kind":"action::set"}
+[17:6:5.774] Response has been sent.
+[17:6:6.116] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/argunovaleksandr/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/argunovaleksandr/scratch/test-123/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/argunovaleksandr/scratch/test-123/src","kind":"discover"}
+[17:6:6.116] Explicitly included types: []
+[17:6:6.117] Inferred typings from unresolved imports: []
+[17:6:6.117] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:6.117] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/argunovaleksandr/scratch/test-123/src/bower_components","/Users/argunovaleksandr/scratch/test-123/src/node_modules"]}
+[17:6:6.117] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:6:6.117] Response has been sent.
+[17:6:6.117] No new typings were requested as a result of typings discovery
